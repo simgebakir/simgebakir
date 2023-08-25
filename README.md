@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @simgebakir
-
+ I graduated from Istanbul Kultur University Electrical&Electronic Engineering.
+ I’m currently working as a master data engineer at Çalık Enerji.
 - 📫 How to reach me simgebakirr@outlook.com
 
 <!---
